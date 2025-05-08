@@ -10,5 +10,13 @@ The objective of this project is to analyze the key factors that influence sales
 * NumPy – numerical operations
 
 ## Concepts Used
-1 **Data Cleaning** - Standardizing Categorical values, handling missing values (e.g., in Sales and Item Weight), and detecting/removing outliers using IQR methods.
-2 
+* **Data Cleaning** - Standardizing Categorical values, handling missing values (e.g., in Sales and Item Weight), and detecting/removing outliers using IQR methods.
+* **Exploratory Data Analysis(EDA)** - Comparing sales across different outlet and product attributes using descriptive statistics.
+* **Data Aggregation** - Grouping data by variables such as item type and outlet type to compute total sales, average sales.
+* **Visualization** - Creating insightful visual representations using bar plots, scatter plots, line charts, and pie charts to communicate trends and anomalies effectively.
+* **Statistical Analysis** - Calculating correlations (e.g., between Item Visibility and Sales), and using summary statistics like mean, median, and IQR to support findings and derive meaningful insights.
+
+## Conclusions and Recommendations
+
+  
+  
